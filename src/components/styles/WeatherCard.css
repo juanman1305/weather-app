@@ -71,6 +71,7 @@ text-align: center;
     background-color:rgb(42, 64, 64);
     color: white;
     transition: transform 100ms ease;
+    margin-top: .8em;
 
 }
 
